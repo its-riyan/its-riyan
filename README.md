@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @its-riyan
-- 👀 I’m a front end developer and IT business analyst. Have strong background in data structure and serach engine optimization.
+- 👀 I’m a front end developer and IT business analyst. Have strong background in data structure and search engine optimization.
 - 🌱 I’m currently learning data analyst.
 - 📫 reach me at livvmyname@icloud.com
 
