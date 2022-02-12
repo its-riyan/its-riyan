@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @its-riyan
-- 👀 I’m a front end developer and IT business analyst. Have strong background in data structure and search engine optimization.
-- 🌱 I’m currently learning data analyst.
+- 👋 Hi, I’m Riyan 
+- 👀 I’m a FrontEnd Developer and DevOps, have strong background in Data Structure and Cloud Computing.
+- 🌱 I’m currently learning IT Business Analyst.
 - 📫 reach me at livvmyname@icloud.com
 
 <!---
