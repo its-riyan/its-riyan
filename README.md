@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Riyan 
-- 👀 I’m working as FullStack Web Developer, have strong background in Cloud Infrastructure / Cloud Engineer. Currently learning IT Business Analyst.
+- 👀 I’m working as FullStack Web Developer, have strong background in Cloud Infrastructure. Currently learning IT Business Analyst.
 - 📫 reach me at adi@riyanprasetya.com
 <!---
 - 🌐 or, visit me on www.riyanprasetya.com
